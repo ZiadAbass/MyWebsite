@@ -10,18 +10,17 @@ session_start();
 $return_url = "../index.php";
 
 //set the users email address
-$email = "ziadamr1@hotmail.com";
+$email = "zeez3azeez@gmail.com";
 
 //array of fields in form. (In the format "field_name" => "field_label")
 $form_fields = array(
 "element0" => 'Your Name',
 "element1" => 'Your Email',
-"element2" => 'Reason?',
-"element3" => 'Subject',
-"element4" => 'Message'
+"element2" => 'Subject',
+"element3" => 'Message'
 );
 
-$required_fields = array("element0", "element1", "element3", "element4");
+$required_fields = array("element0", "element1", "element2", "element3");
 
 $mail_from_name 	= "element0";
 $mail_from_email 	= "element1";

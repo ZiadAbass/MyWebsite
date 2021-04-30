@@ -50,9 +50,8 @@
 	<!-- Head content such as meta tags and encoding options, etc -->
 	<link rel="mask-icon" href="../z tab icon.svg" color="#529CC0" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="description" content="A Mechatronics & Robotics Engineer Who's Also An iOS Developer. Find out about me and my work." />
+		<meta name="description" content="Ziad Abass | Reach out!" />
 		<meta name="robots" content="index, follow" />
-		<meta name="generator" content="RapidWeaver" />
 		<link rel="icon" href="http://ziadabass.com/favicon.ico" type="image/x-icon" />
 		<link rel="shortcut icon" href="http://ziadabass.com/favicon.ico" type="image/x-icon" />
 		
@@ -68,7 +67,7 @@
 	<title>Contact | Ziad Abass</title>
 
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Voyager/consolidated-1.css?rwcache=601853984" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Voyager/consolidated-1.css?rwcache=641487705" />
 		
 
 <link href='https://fonts.googleapis.com/css?family=Open Sans:400,700' rel='stylesheet' type='text/css'>
@@ -109,7 +108,7 @@
 							<div id="social_badges"></div>
 							<!-- <h2 class="navigation_overlay_site_slogan">The art of communication is the language of leadership.</h2> -->
 							<div id="main_navigation">
-								<ul><li><a href="../" rel="">Home</a></li><li><a href="../about/" rel="">About</a></li><li><a href="../aida/" rel="">Ai-Da Robot</a></li><li><a href="../projects/" rel="">Projects</a></li><li><a href="../achievements/" rel="">Achievements</a></li><li><a href="../iosapps/" rel="">iOS Apps</a></li><li><a href="./" rel="" id="current">Contact</a></li></ul>
+								<ul><li><a href="../" rel="">Home</a></li><li><a href="../press/" rel="">Press</a></li><li><a href="../about/" rel="">About</a></li><li><a href="../achievements/" rel="">Achievements</a></li><li><a href="../aida/" rel="">Ai-Da Robot</a></li><li><a href="../ibm/" rel="">IBM UK</a></li><li><a href="../collard/" rel="">Collard Startup</a></li><li><a href="../projects/" rel="">Projects</a></li><li><a href="../iosapps/" rel="">iOS Apps</a></li><li><a href="./" rel="" id="current">Contact</a></li></ul>
 							</div>
 				</div> <!-- container -->
 			</div> <!-- main_navigation -->
@@ -163,17 +162,11 @@
 		<label>Your Email</label> *<br />
 		<input class="form-input-field" type="text" value="<?php echo check('element1'); ?>" name="form[element1]" size="40"/><br /><br />
 
-		<label>Reason?</label> <br />
-		<select class="form-select-field" name="form[element2]">			<option <?php echo check('element2', 'select','Academic'); ?> value="Academic">Academic</option>
-			<option <?php echo check('element2', 'select','Professional'); ?> value="Professional">Professional</option>
-			<option <?php echo check('element2', 'select','Other'); ?> value="Other">Other</option>
-		</select><br /><br />
-
 		<label>Subject</label> *<br />
-		<input class="form-input-field" type="text" value="<?php echo check('element3'); ?>" name="form[element3]" size="40"/><br /><br />
+		<input class="form-input-field" type="text" value="<?php echo check('element2'); ?>" name="form[element2]" size="40"/><br /><br />
 
 		<label>Message</label> *<br />
-		<textarea class="form-input-field" name="form[element4]" rows="8" cols="38"><?php echo check('element4'); ?></textarea><br /><br />
+		<textarea class="form-input-field" name="form[element3]" rows="8" cols="38"><?php echo check('element3'); ?></textarea><br /><br />
 
 		<div style="display: none;">
 			<label>Spam Protection: Please don't fill this in:</label>
@@ -194,8 +187,8 @@
 				</div>
 
 			  <aside id="sidebar">
-					<h3 id="sidebar_title">Kalam Bardo</h3>
-					Momken t-drag soora hena eshta<br />
+					<h3 id="sidebar_title"></h3>
+					
 
 					<div id="archives">
 						
@@ -214,16 +207,16 @@
 	</div>
 
 	<!-- jQuery 1.8 is included in the theme internally -->
-  <script src="../rw_common/themes/Voyager/js/jquery.min.js?rwcache=601853984"></script>
+  <script src="../rw_common/themes/Voyager/js/jquery.min.js?rwcache=641487705"></script>
 
 	<!-- Base RapidWeaver javascript -->
-	<script async type="text/javascript" src="../rw_common/themes/Voyager/javascript.js?rwcache=601853984"></script>
+	<script async type="text/javascript" src="../rw_common/themes/Voyager/javascript.js?rwcache=641487705"></script>
 
   <!-- Elixir theme specific javascript, along with jQuery Easing and a few other elements -->
-  <script src="../rw_common/themes/Voyager/js/elixir.js?rwcache=601853984"></script>
+  <script src="../rw_common/themes/Voyager/js/elixir.js?rwcache=641487705"></script>
 
 	<!-- Style variations -->
-	<script type="text/javascript" src="../rw_common/themes/Voyager/js/sidebar/sidebar_hidden.js?rwcache=601853984"></script>
+	<script type="text/javascript" src="../rw_common/themes/Voyager/js/sidebar/sidebar_hidden.js?rwcache=641487705"></script>
 		
 
 	<!-- User defined javascript -->

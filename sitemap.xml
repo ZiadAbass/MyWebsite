@@ -2,30 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://ziadabass.com/index.html</loc>
-		<lastmod>2020-01-27</lastmod>
+	</url>
+	<url>
+		<loc>http://ziadabass.com/press/index.html</loc>
 	</url>
 	<url>
 		<loc>http://ziadabass.com/about/index.html</loc>
-		<lastmod>2020-01-27</lastmod>
-	</url>
-	<url>
-		<loc>http://ziadabass.com/aida/index.html</loc>
-		<lastmod>2020-01-27</lastmod>
-	</url>
-	<url>
-		<loc>http://ziadabass.com/projects/index.html</loc>
-		<lastmod>2020-01-27</lastmod>
 	</url>
 	<url>
 		<loc>http://ziadabass.com/achievements/index.html</loc>
-		<lastmod>2020-01-27</lastmod>
+	</url>
+	<url>
+		<loc>http://ziadabass.com/aida/index.html</loc>
+	</url>
+	<url>
+		<loc>http://ziadabass.com/ibm/index.html</loc>
+	</url>
+	<url>
+		<loc>http://ziadabass.com/collard/index.html</loc>
+	</url>
+	<url>
+		<loc>http://ziadabass.com/projects/index.html</loc>
 	</url>
 	<url>
 		<loc>http://ziadabass.com/iosapps/index.html</loc>
-		<lastmod>2020-01-27</lastmod>
 	</url>
 	<url>
 		<loc>http://ziadabass.com/contact/index.php</loc>
-		<lastmod>2020-01-27</lastmod>
 	</url>
 </urlset>

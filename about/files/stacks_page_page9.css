@@ -1,0 +1,188 @@
+
+#stacks_in_4_page9 {
+	margin: 15px 5px 10px 5px;
+}
+
+#stacks_in_16_page9 {
+	margin: 15px 5px 15px 5px;
+}
+
+#stacks_in_6_page9 {
+	margin: 20px 0px 10px 0px;
+}
+
+#stacks_in_8_page9 {
+	margin: 15px 5px 16px 5px;
+}
+#stacks_in_169_page9>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_169_page9>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+  
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+
+	#stacks_in_169_page9>.s3_row  {
+		margin: -10px -10px;
+	}
+	#stacks_in_169_page9>.s3_row>.s3_column {
+		padding: 10px 10px;
+		width:50%;
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_169_page9>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_169_page9>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+
+
+
+}
+
+
+
+
+  
+
+#stacks_in_169_page9 {
+	margin: 20px 5px 20px 5px;
+}
+#stacks_in_134_page9>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_134_page9>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+  
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+
+	#stacks_in_134_page9>.s3_row  {
+		margin: -10px -10px;
+	}
+	#stacks_in_134_page9>.s3_row>.s3_column {
+		padding: 10px 10px;
+		width:50%;
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_134_page9>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_134_page9>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+
+
+
+}
+
+
+
+
+  
+
+#stacks_in_134_page9 {
+	margin: 20px 5px 20px 5px;
+}
+
+#stacks_in_18_page9 {
+	margin: 15px 5px 15px 5px;
+}
+
+#stacks_in_14_page9 {
+	margin: 20px 0px 10px 0px;
+}
+
+#stacks_in_12_page9 {
+	margin: 15px 5px 10px 5px;
+}
+
+#stacks_in_24_page9 {
+	margin: 15px 5px 15px 5px;
+}
+
+#stacks_in_20_page9 {
+	margin: 20px 0px 10px 0px;
+}
+
+#stacks_in_22_page9 {
+	margin: 15px 5px 10px 5px;
+}
+
+#stacks_in_28_page9 {
+	margin: 15px 5px 15px 5px;
+}
+
+#stacks_in_26_page9 {
+	margin: 20px 0px 10px 0px;
+}
+
+#stacks_in_30_page9 {
+	margin: 15px 5px 10px 5px;
+}
+
+#stacks_in_32_page9 {
+	margin: 15px 5px 15px 5px;
+}
+
+#stacks_in_34_page9 {
+	margin: 20px 0px 10px 0px;
+}
+
+#stacks_in_40_page9 {
+	margin: 15px 5px 25px 5px;
+}
